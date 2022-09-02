@@ -1,13 +1,13 @@
 let fs = require('fs')                    //CREATOR = YahyaGanzz , DEVBOT
 let chalk = require('chalk')
 global.owner = [
-  ['6281511480762'],
-  ['66281511480762'],
-  ['6281511480762', 'Owner AzzBot', true]  
+  ['6283865752867'],
+  ['6283865752867'],
+  ['6283865752867', 'Owner RzBot-MD', true]  
   
 ] 
-global.ownername = [['YahyaGanzz']]
-global.namabot = [['AzzBot-MD']]
+global.ownername = [['Rz06']]
+global.namabot = [['RzBot-MD']]
 global.ownerinsta = [['@wibu_indo_888816']]
 global.mods = [] 
 global.prems = [] 
@@ -61,7 +61,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = 'Created by YahyaGanzz'
+global.wm = 'Created by RzBot-MD'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
